@@ -1,2 +1,2 @@
 # aws_ec2_sample
-Create an instance and generates random administrator password and allocated static public Ip to the instance.
+Creating an instance and generating random administrator password with allocated static public Ip to the instance.
